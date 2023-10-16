@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Ready, Steady GO!',
-	greetingAfternoon: 'Don`t Blink!',
-	greetingEvening: 'Hey  Hey!',
-	greetingNight: 'Pretty night vibes? Hell yeah!',
+	greetingMorning: 'Time to wake',
+	greetingAfternoon: 'The flames are burning',
+	greetingEvening: 'Feeling numb I see, ',
+	greetingNight: '"I`M. SO. SCARED, I CAN`T BREATHE"',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
